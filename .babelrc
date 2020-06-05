@@ -1,0 +1,9 @@
+{
+  "presets": [ //a preset is a group of plugins
+    "env", 
+    "react" 
+  ],
+  "plugins": [
+    "transform-class-properties"
+  ]
+}
