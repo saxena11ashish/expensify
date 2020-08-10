@@ -2,7 +2,7 @@ const path = require('path');
 // core things required for webpack-config-file
 // 1. entry | 2. output
 module.exports = {
-  entry: './src/app.js',
+  entry: './src/playground/redux-expensify.js',
   output: {
     path: path.join(__dirname, 'public'),
     filename: 'bundle.js'
